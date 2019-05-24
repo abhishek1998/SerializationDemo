@@ -1,0 +1,11 @@
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Serialization\bin\Debug\netcoreapp2.1\SerializationDemo.deps.json
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Serialization\bin\Debug\netcoreapp2.1\SerializationDemo.runtimeconfig.json
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Serialization\bin\Debug\netcoreapp2.1\SerializationDemo.runtimeconfig.dev.json
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Serialization\bin\Debug\netcoreapp2.1\SerializationDemo.dll
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Serialization\bin\Debug\netcoreapp2.1\SerializationDemo.pdb
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Serialization\obj\Debug\netcoreapp2.1\SerializationDemo.csprojAssemblyReference.cache
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Serialization\obj\Debug\netcoreapp2.1\SerializationDemo.csproj.CoreCompileInputs.cache
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Serialization\obj\Debug\netcoreapp2.1\SerializationDemo.AssemblyInfoInputs.cache
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Serialization\obj\Debug\netcoreapp2.1\SerializationDemo.AssemblyInfo.cs
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Serialization\obj\Debug\netcoreapp2.1\SerializationDemo.dll
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Serialization\obj\Debug\netcoreapp2.1\SerializationDemo.pdb

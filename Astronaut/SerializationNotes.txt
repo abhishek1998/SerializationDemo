@@ -1,0 +1,44 @@
+﻿Serialization  Why : to save an object to memory or send an object to another app
+how to do it: must be decorated with 
+If you don’t want a field to be serialize, apply the NotSerializedAttribute attribute to that member
+In order to persist the values for the  class, you must first mark the class with the Serializable attribute. 
+all fields must be public to be serialize 
+
+
+XML
+	using System.Xml.Serialization
+
+	//creating and initialization an serializer object 
+	XmlSerializer obj = new		XmlSerializer(typeof(classname))
+
+	(You will also need a writable stream such as a TextWriter)
+	TextWriter writer = new StreamWriter(filename);
+
+
+	Use the Serialize method to serialize the object
+	serializer.Serialize(writer, student);
+
+	Use the Deserialize method to de-serialize the object
+	Student student = (Student)serializer.Deserialize(reader);
+	Console.WriteLine(student);
+
+JSON
+	add reference 
+	System.Web.Extensions
+
+	Add the necessary namespace
+	using System.Web.Script.Serialization;
+
+	Create and initialise a serializer object
+	JavaScriptSerializer serializer = new JavaScriptSerializer();
+
+	(You will also need a writable stream such as a TextWriter)
+	TextWriter writer = new StreamWriter(filename);
+
+	Use the Serialize method to serialize the object. The method returns a string that is normally written to a file
+	writer.Write(serializer.Serialize(«object»));
+
+	//deserialize
+	Lizard lizard = serializer.Deserialize<Lizard>(reader.ReadToEnd()));
+
+

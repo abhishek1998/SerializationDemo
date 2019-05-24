@@ -1,0 +1,11 @@
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Astronaut\bin\Debug\netcoreapp2.1\Astronaut.deps.json
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Astronaut\bin\Debug\netcoreapp2.1\Astronaut.runtimeconfig.json
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Astronaut\bin\Debug\netcoreapp2.1\Astronaut.runtimeconfig.dev.json
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Astronaut\bin\Debug\netcoreapp2.1\Astronaut.dll
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Astronaut\bin\Debug\netcoreapp2.1\Astronaut.pdb
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Astronaut\obj\Debug\netcoreapp2.1\Astronaut.csprojAssemblyReference.cache
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Astronaut\obj\Debug\netcoreapp2.1\Astronaut.csproj.CoreCompileInputs.cache
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Astronaut\obj\Debug\netcoreapp2.1\Astronaut.AssemblyInfoInputs.cache
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Astronaut\obj\Debug\netcoreapp2.1\Astronaut.AssemblyInfo.cs
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Astronaut\obj\Debug\netcoreapp2.1\Astronaut.dll
+H:\Sem2\Comp123_Programming2\Week04\Lab10_Astronaut\Astronaut\obj\Debug\netcoreapp2.1\Astronaut.pdb
